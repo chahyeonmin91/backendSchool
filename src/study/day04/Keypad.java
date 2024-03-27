@@ -1,4 +1,4 @@
-package study.day06;
+package study.day04;
 
 public class Keypad {
     public String keypad(int[] numbers, String hand) {
