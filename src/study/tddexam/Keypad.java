@@ -1,6 +1,5 @@
-package study;
+package study.tddexam;
 
-import java.util.*;
 public class Keypad {
     public String keypad(int[] numbers, String hand) {
         String ans = " ";
