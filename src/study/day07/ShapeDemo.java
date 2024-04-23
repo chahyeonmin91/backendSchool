@@ -8,7 +8,7 @@ public class ShapeDemo {
         System.out.println("triangle.calculateArea() = " + triangle.calculateArea());
 
         Shape rectangle = new Rectangle(10, 20);
-        System.out.println("rectangle.calculateArea = " + rectangle.calculateArea);
+        //System.out.println("rectangle.calculateArea = " + rectangle.calculateArea);
 
     }
 }

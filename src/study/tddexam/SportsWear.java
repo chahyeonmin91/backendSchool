@@ -1,4 +1,4 @@
-package study;
+package study.tddexam;
 import java.util.Arrays;
 
 public class SportsWear
